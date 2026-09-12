@@ -40,7 +40,7 @@
 Hi
 <img src="./Star_Rail_WORLD_Rappa.webp" width="250" align="left">
 Hi!!
-I'm Yao, a CSMayor, and I'm currently in my second year! I draw and program in my free time (which sounds funny when you consider that most of my homework and studying at home is programming anyway...)
+&nbsp;&nbsp;&nbsp;&nbsp;I'm Yao, a CSMayor, and I'm currently in my second year! I draw and program in my free time (which sounds funny when you consider that most of my homework and studying at home is programming anyway...)
 <br>
 I'm a huge fan of games! That's actually what got me into learning game development on my own. I started with Godot Engine, which I found absolutely mesmerising and incredibly engaging~ Since then, I've been working on my own games, as well as a Title I'm making together with a dear friend I met at university.
 <br>
