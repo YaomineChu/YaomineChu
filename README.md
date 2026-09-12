@@ -37,7 +37,6 @@
 <h3>About me ✮⋆˙</h3>
 <hr>
 </div>
-Hi
 <img src="./Star_Rail_WORLD_Rappa.webp" width="250" align="left">
 Hi!!
 <br>
