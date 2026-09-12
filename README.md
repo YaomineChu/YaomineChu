@@ -112,6 +112,7 @@ I need to stop you right there.
 <br>
 <h3>Trivia ✮⋆˙</h3>
 <hr>
+</div>
 <ul>
   <li>My favourite game is <i>Honkai: Star Rail</i>, although I absolutely love the <i>Persona</i> series as well!</li>
   <li>My favourite movie is <i>Mononoke</i> (and yes, I love the anime too!) and <i>Me Before You</i>. I've also enjoyed movies featuring Ryan Gosling for as long as I can remember.</li>
@@ -127,4 +128,3 @@ I need to stop you right there.
     Yet one affliction remaineth eternal: the language of Scala.
   </li>
 </ul>
-</div>
