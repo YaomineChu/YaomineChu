@@ -27,7 +27,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/yaomine-chu-326436397/" target="_blank">
+      <a href="https://linkedin.com/in/yaominechu/" target="_blank">
         LinkedIn
       </a>
     </td>
