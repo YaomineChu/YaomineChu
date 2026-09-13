@@ -51,6 +51,7 @@ But if, by this point, you're thinking:
 I need to stop you right there.
 <br>
 <div align="center">
+<br> 
 <b>I was brought to Scala hell.</b>
 </div>
 <br>
@@ -85,7 +86,7 @@ I need to stop you right there.
 
 <h3>Projects In Progress! ✮⋆˙</h3>
 <hr>
-
+ADDING SOON!
 <br>
 
 <h3>Statistics ✮⋆˙</h3>
