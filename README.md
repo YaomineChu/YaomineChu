@@ -132,6 +132,6 @@ ADDING SOON!
 <hr>
 <div align="center">
 <br>
-<img src="./PROGAMERONSW.gif" width="650">
+<img src="./PROGAMERMODESW.gif" width="650">
 <br>
 </div>
