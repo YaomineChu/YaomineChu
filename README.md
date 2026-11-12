@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Photo2.png">
+<img src="./BannerSW.gif">
 
 <h2 align="center">
   Alchemist's Page !!<br>
@@ -37,7 +37,7 @@
 <h3>About me ✮⋆˙</h3>
 <hr>
 </div>
-<img src="./Star_Rail_WORLD_Rappa.webp" width="250" align="left">
+<img src="./Sticker_SW.png" width="250" align="left">
 Hi!!
 <br>
 I'm Yao, a CSMayor, and I'm currently in my second year! I draw and program in my free time (which sounds funny when you consider that most of my homework and studying at home is programming anyway...)
@@ -107,7 +107,7 @@ ADDING SOON!
 <hr>
 <br>
 
-<img src="./rappa_gif.gif">
+<img src="./GODMODEONSW.gif" width="650">
 
 <br>
 <h3>Trivia ✮⋆˙</h3>
@@ -128,3 +128,10 @@ ADDING SOON!
     Yet one affliction remaineth eternal: the language of Scala.
   </li>
 </ul>
+
+<hr>
+<div align="center">
+<br>
+<img src="./PROGAMERONSW.gif" width="650">
+<br>
+</div>
