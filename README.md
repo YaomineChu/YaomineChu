@@ -42,7 +42,7 @@ Hi!!
 <br>
 I'm Yao, a CSMayor, and I'm currently in my second year! I draw and program in my free time (which sounds funny when you consider that most of my homework and studying at home is programming anyway...)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;I'm a huge fan of games! That's actually what got me into learning game development on my own. I started with Godot Engine, which I found absolutely mesmerising and incredibly engaging~ Since then, I've been working on my own games, as well as a Title I'm making together with a dear friend I met at university.
+&nbsp;&nbsp;&nbsp;&nbsp;I'm a huge fan of games! That's actually what got me into learning game development on my own. I started with Godot Engine, which I found absolutely mesmerising and incredibly engaging~ Since then, I've been working on my own games!
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;One of the first games I ever played was <i>Honkai Impact 3rd</i> by miHoYo. That's where my love for the franchise took root - and where I took my first steps towards the GameDev industry. Besides programming, I absolutely love drawing and bringing new characters to life!
 <br>
@@ -114,7 +114,7 @@ ADDING SOON!
 <hr>
 </div>
 <ul>
-  <li>My favourite game is <i>Honkai: Star Rail</i>, although I absolutely love the <i>Persona</i> series as well!</li>
+  <li>My favourite game is <i>Honkai: Star Rail</i>, although I absolutely love the <i>Persona</i> series as well and I CRAVE FOR DEADLOCK!</li>
   <li>My favourite movie is <i>Mononoke</i> (and yes, I love the anime too!) and <i>Me Before You</i>. I've also enjoyed movies featuring Ryan Gosling for as long as I can remember.</li>
   <li>My biggest dream is to become as good at drawing as my favourite Chinese artist.</li>
   <li>My favourite duo is <i>FAKE TYPE.</i></li>
